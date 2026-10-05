@@ -1,2 +1,7 @@
 # sandbox-data-6
-small experiments
+
+## Commands
+- check the logs
+- clean up duplicates
+- [x] backup first
+- see if there is a shortcut
